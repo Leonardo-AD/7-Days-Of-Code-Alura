@@ -2,10 +2,6 @@
 let loop = 1
 
 function sum(convertFirstValue,convertSecondValue){
-    //let value1 = convertFirstValue
-    //let value2 = convertSecondValue
-    //let result = value1+value2
-        //now i return the result of parameters, before was the way above     
     return convertFirstValue+convertSecondValue
 }
 
@@ -19,7 +15,7 @@ function subtract(convertFirstValue,convertSecondValue){
 
 function divide(convertFirstValue,convertSecondValue){
     return convertFirstValue/convertSecondValue
-}//Awesome project, i did enjoy the 7 days of code challenge, this last one code are pretty good. We can use (do while)
+}
 
 while(loop == 1){
     let options = prompt("Escolha uma opção: (1) Somar | (2) Multiplicar | (3) Subtrair | (4) Dividir | (5) Sair")
