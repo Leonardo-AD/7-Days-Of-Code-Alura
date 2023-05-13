@@ -4,3 +4,5 @@
 In this case I didn't make the interface, just the JS code.
 
 You can see what we need to do (ReadMeDay01 to ReadMeDay07) and the resolution of each problem (scriptDay01 to scriptDay07).
+
+Do you want to run the code? Just copy the code and paste it into the console.
